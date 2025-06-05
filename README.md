@@ -7,7 +7,7 @@
 </picture>
 
 
-<h2> 👨🏻 &nbsp;About Me </h2>
+<h2> 🐣 &nbsp;About Me </h2>
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
