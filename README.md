@@ -1,4 +1,4 @@
-## Hi, I'm wupinshuo 👋
+<h2> Hi, I'm wupinshuo 👋</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wupinshuo/wupinshuo/output/github-contribution-grid-snake-dark.svg">
@@ -7,12 +7,10 @@
 </picture>
 
 
-### About me:
+<h3> 👨🏻 &nbsp;About Me </h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wupinshuo&theme=merko" width="50%" height=180em align="left"/>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wupinshuo&theme=merko" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"  width="50%" height=180em align="right"/>
 
 <!--
 **wupinshuo/wupinshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
