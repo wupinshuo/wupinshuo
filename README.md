@@ -52,9 +52,10 @@
 <!-- - [榴莲首页](https://hotlist.durio.cc) -->
 
 <!-- - [榴莲热榜 - 技术与资讯热榜聚合平台](https://hotlist.durio.cc)
+<!-- - [榴莲修仙 - 踏上修真之路](https://durian-xiuxian.vercel.app) （目前处于开发阶段，欢迎体验） -->
+
 - [榴莲修仙 - 踏上修真之路](https://xiuxian.durio.cc) （目前处于开发阶段，欢迎体验） -->
-- [榴莲热榜 - 技术与资讯热榜聚合平台](https://durian-hotlist.vercel.app)
-- [榴莲修仙 - 踏上修真之路](https://durian-xiuxian.vercel.app) （目前处于开发阶段，欢迎体验）
+- [榴莲热榜 - 技术与资讯热榜聚合平台](https://durian-hotlist.vercel.app) (由于备案问题，目前暂无数据~)
 
 <br/>
 
