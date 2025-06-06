@@ -18,6 +18,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PM2](https://img.shields.io/badge/-PM2-333333?style=flat&logo=pm2)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
@@ -30,6 +32,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=github-actions)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -43,7 +46,7 @@
 
 <br/>
 
-<h3> 📊 &nbsp;个人项目 </h3>
+<h3> ✨ &nbsp;个人项目 </h3>
 
 - [榴莲热榜 - 技术与资讯热榜聚合平台](https://durian-hotlist.vercel.app/)
 - [榴莲修仙 - 踏上修真之路](https://durian-xiuxian.vercel.app) （目前处于demo阶段）
