@@ -49,13 +49,13 @@
 
 <h3> ✨ &nbsp;个人项目 </h3>
 
-- [榴莲热榜 - 技术与资讯热榜聚合平台](https://durian-hotlist.vercel.app/)
-- [榴莲修仙 - 踏上修真之路](https://durian-xiuxian.vercel.app) （目前处于demo阶段）
+- [榴莲热榜 - 技术与资讯热榜聚合平台](https://durian-hotlist.vercel.app)
+- [榴莲修仙 - 踏上修真之路](https://durian-xiuxian.vercel.app) （目前处于开发阶段，欢迎体验）
 
 <br/>
 
 <h3> 📊 &nbsp;GitHub Stats </h3>
-
+Last 30 days
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wupinshuo&theme=merko"/>
 
 <br/>
