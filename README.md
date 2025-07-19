@@ -47,10 +47,10 @@
 
 <br/>
 
-<h3> ✨ &nbsp;个人项目 </h3>
+<h3> ✨ &nbsp;个人项目-榴莲系列 </h3>
 
 - [榴莲热榜 - 技术与资讯热榜聚合平台](https://hotlist.durio.cc) 
-- [榴莲修仙 - 踏上修真之路](https://xiuxian.durio.cc)
+- [榴莲修仙 - 网页修仙小游戏，踏上修真之路](https://xiuxian.durio.cc)
 
 <br/>
 
@@ -60,8 +60,8 @@ Last 30 days
 
 <br/>
 
-<h3> 📊 &nbsp;Top Languages </h3>
+<!-- <h3> 📊 &nbsp;Top Languages </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" height=180em/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" height=180em/> -->
 
 
