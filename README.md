@@ -47,7 +47,7 @@
 
 <br/>
 
-<h3> ✨ &nbsp;个人项目-榴莲系列 </h3>
+<h3> ✨ &nbsp;个人小项目 </h3>
 
 - [榴莲热榜 - 技术与资讯热榜聚合平台](https://hotlist.durio.cc) 
 - [榴莲工具 - 一些实用工具聚合平台](https://tools.durio.cc)
