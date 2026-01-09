@@ -52,6 +52,7 @@
 - [榴莲热榜 - 技术与资讯热榜聚合平台](https://hotlist.durio.cc) 
 - [榴莲工具 - 一些实用工具聚合平台](https://tools.durio.cc)
 - [榴莲修仙 - 网页修仙小游戏，踏上修真之路](https://xiuxian.durio.cc)
+- [在线网页小游戏](https://games.durio.cc)
 
 <br/>
 
