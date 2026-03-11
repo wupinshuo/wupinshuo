@@ -56,9 +56,9 @@
 
 <br/>
 
-<h3> 📊 &nbsp;GitHub Stats </h3>
+<!-- <h3> 📊 &nbsp;GitHub Stats </h3>
 Last 30 days
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wupinshuo&theme=merko"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wupinshuo&theme=merko"/> -->
 
 <br/>
 
